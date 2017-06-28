@@ -9,7 +9,7 @@
 ,  "bundleDependencies"         : []
 ,  "scripts"                    : { "start"         : "node server.js"
                                   }
-,  "config"                     : { "tabs"          : []
+,  "config"                     : { "tabs"          : ["fabs"]
                                   , "table"         : "fabs"
                                   , "data"          : "deflate"
                                   , "flatdata"      : "flat"
